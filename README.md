@@ -14,8 +14,10 @@
 <p>This is a project of the Delani studio homepage.</p>
 
 ## Design
+ /home/abdinasir/Desktop/tarbey/DelaniStudio/ Delani Studio.jpg
 
-* [(<img src="/DelaniStudio/ Delani Studio.jpg" alt="">)]
+
+* <img src="/DelaniStudio/ Delani Studio.jpg" alt="">
 
 ## Installation
 
