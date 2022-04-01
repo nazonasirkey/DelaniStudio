@@ -54,3 +54,22 @@
 .product3 {
     display: none;
 }
+.contact{
+    background-image: url("/images/assets/backgrounds/c_image.jpg"); background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 480px;
+    height: auto;
+    color: white;
+
+}
+.form1{
+    text-align: center;
+}
+.footer{
+    justify-content: center;
+    display: grid ;
+}
+.footer2{
+    text-align: center;
+}

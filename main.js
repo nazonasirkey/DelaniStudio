@@ -66,6 +66,13 @@ $(document).ready(function () {
     $(".giraffe").mouseout(function () {
         $(".giraffe2").hide();
     });
+     });
+    let form = document.querySelector(".form")  
+    let username = form.username
+    form.addEventListener("submit", (e) => {
+    e.preventDefault()
+    alert("Hello " + username.value + "! data has been submitted successfully")
+     });
 
 
 
@@ -101,4 +108,3 @@ $(document).ready(function () {
 
 
 
-})
