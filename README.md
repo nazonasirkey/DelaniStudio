@@ -13,7 +13,7 @@
 ## Description
 <p>This is a project of the Delani studio homepage.</p>
 
-##Design
+## Design
 
 * <img src="/DelaniStudio/ Delani Studio.jpg" alt="">
 
