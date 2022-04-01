@@ -15,12 +15,6 @@
 
 ## Design
 
-<<<<<<< HEAD
-* ![Delani Studio](/home/abdinasir/Desktop/tarbey/DelaniStudio/ Delani Studio.jpg)
-=======
-* [<img src="/DelaniStudio/ Delani Studio.jpg" alt="">]
->>>>>>> main
-
 ## Installation
 
 ### copyright (c) 2022 [click to view license(LICENSE)]
