@@ -15,8 +15,6 @@
 
 ## Design
 
- * <img src="/home/abdinasir/Desktop/tarbey/DelaniStudio/ Delani Studio.jpg" alt="">
-
 ## Installation
 
 ### copyright (c) 2022 [click to view license(LICENSE)]
