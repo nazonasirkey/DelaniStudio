@@ -15,7 +15,7 @@
 
 ## Design
 
-* https://github.com/nazonasirkey/DelaniStudio/edit/master/README.md
+* ![Delani Studio](/home/abdinasir/Desktop/tarbey/DelaniStudio/ Delani Studio.jpg)
 
 ## Installation
 
