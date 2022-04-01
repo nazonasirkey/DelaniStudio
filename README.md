@@ -15,7 +15,7 @@
 
 ## Design
 
-* <img src="/DelaniStudio/ Delani Studio.jpg" alt="">
+* [<img src="/DelaniStudio/ Delani Studio.jpg" alt="">]
 
 ## Installation
 
