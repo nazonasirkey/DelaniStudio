@@ -15,7 +15,11 @@
 
 ## Design
 
+<<<<<<< HEAD
 * ![Delani Studio](/home/abdinasir/Desktop/tarbey/DelaniStudio/ Delani Studio.jpg)
+=======
+* [<img src="/DelaniStudio/ Delani Studio.jpg" alt="">]
+>>>>>>> main
 
 ## Installation
 
