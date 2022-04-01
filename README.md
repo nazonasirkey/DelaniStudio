@@ -15,7 +15,7 @@
 
 ## Design
 
-* [(<img src="/DelaniStudio/ Delani Studio.jpg" alt="">)]
+* https://github.com/nazonasirkey/DelaniStudio/edit/master/README.md
 
 ## Installation
 
