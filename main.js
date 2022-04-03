@@ -1,3 +1,4 @@
+
 $(document).ready(function () {
     $(".design1").click(function () {
         $(".design2").toggle();
@@ -71,7 +72,7 @@ $(document).ready(function () {
     let username = form.username
     form.addEventListener("submit", (e) => {
     e.preventDefault()
-    alert("Hello " + username.value + "! data has been submitted successfully")
+    alert("Hello " + username.value + "! the data has been submitted successfully")
      });
 
 
